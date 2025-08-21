@@ -1,2 +1,2 @@
-# mon-premier-repo
-repo ou je poste mes avancées sur l'apprentissage des différents langages de programmation 
+# mon-premier-projet
+ceci est mon tout premier projet sur github
